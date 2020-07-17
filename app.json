@@ -1,0 +1,12 @@
+{
+  "name": "petooApp",
+  "displayName": "petooApp",
+  "expo": {
+    "name": "petooApp",
+    "slug": "petooApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
